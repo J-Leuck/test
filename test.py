@@ -5,7 +5,7 @@ for i in list:
 
 reponse=input()
 
-if reponse:
+if reponse == "Je ne sais pas":
     print("OH")
 
 if reponse=="oui":
